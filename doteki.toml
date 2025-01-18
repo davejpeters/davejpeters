@@ -1,3 +1,5 @@
+marker_format = "<!-- {name} {position} -->"
+
 [sections.blog]
 plugin = "feed"
 url = "https://medium.com/feed/@j0hnc0nn0r"
