@@ -38,13 +38,13 @@ I work on exciting projects that range from web applications to open-source cont
 ## 🙇 Shoutouts
 
 A big shoutout to all my mentors, peers, and the open-source community that inspires me every day! 🙌
-A special thanks to the [xssdoctor](https://github.com/xssdoctor) and Gregory Hatcher of [White Knight Labs](https://github.com/WKL-Sec/GregsBestFriend).  
+A special thanks to the [xssdoctor](https://github.com/xssdoctor) and Gregory Hatcher of [White Knight Labs](https://github.com/WKL-Sec/GregsBestFriend).
 
 ---
 
 ## 🙌 Let's Connect!
 
-I love connecting with new people and collaborating on projects. Feel free to reach out via:
+I love meeting new people and collaborating on projects. Feel free to reach out via:
 
 - [LinkedIn](https://www.linkedin.com/in/petersec)
 - [Twitter](https://x.com/Noob73286788366)
