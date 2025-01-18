@@ -11,7 +11,7 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 ---
 
 <!-- blog start -->
-## Latest blog posts
+## 📖 Latest blog posts
 
 - [Software Development in 2025](https://medium.com/@j0hnc0nn0r/software-development-in-2025-f23c62d5bd93?source=rss-54fb251bbcc2------2)
 - [The Philosophy of Linux: A Design That Changed Computing](https://medium.com/@j0hnc0nn0r/the-philosophy-of-linux-a-design-that-changed-computing-fb61a08cd22a?source=rss-54fb251bbcc2------2)
