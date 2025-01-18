@@ -19,7 +19,7 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 - [Start Your Hacking Journey in 2025: A Comprehensive Guide for Beginners](https://medium.com/@j0hnc0nn0r/start-your-hacking-journey-in-2025-a-comprehensive-guide-for-beginners-48dab19186b7?source=rss-54fb251bbcc2------2)
 - [Streamline Your Command Line](https://medium.com/@j0hnc0nn0r/stream-line-your-command-line-236034cda8a3?source=rss-54fb251bbcc2------2)
 
-More on [medium](https://medium.com/feed/@j0hnc0nn0r)
+More on [Medium](https://medium.com/feed/@j0hnc0nn0r)
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-01-18<!-- last_updated end --></sub>
