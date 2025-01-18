@@ -42,7 +42,7 @@ I love meeting new people and collaborating on projects. Feel free to reach out 
 - [HackTheBox](https://app.hackthebox.com/profile/1763167) 
 - [Twitter](https://x.com/Noob73286788366)
 - [Medium](https://medium.com/@j0hnc0nn0r)
-- [LinkedIn](https://www.linkedin.com/in/petersec)
+- [LinkedIn]()
 
 ---
 
