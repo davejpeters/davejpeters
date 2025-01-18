@@ -1,7 +1,5 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Banner](https://your-banner-url.com/banner.jpg)
-
 Hey there! I'm John, a passionate developer specializing in rapid knowledge acquisition. I love creating innovative solutions and exploring new technologies. Say hi or check out my code! 🚀
 
 ---
@@ -10,7 +8,7 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 
 Here's a collection of the technologies and tools I frequently use:
 
-```typescript
+
 const technologies: string[] = [
 "TypeScript",
 "Svelte",
@@ -23,7 +21,7 @@ const technologies: string[] = [
 technologies.forEach(technology => {
 console.log(`💻 ${technology}`);
 });
-```
+
 
 ---
 
