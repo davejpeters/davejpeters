@@ -1,5 +1,4 @@
 name: Update README with dōteki
-
 on:
   push:
   workflow_dispatch:
