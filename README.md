@@ -1,6 +1,6 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# Welcome to My GitHub Profile!
 
-Hey there! I'm John, a passionate developer specializing in rapid knowledge acquisition. I love creating innovative solutions and exploring new technologies. Say hi or check out my code! 🚀
+Hey there! I'm John, a passionate developer specializing in rapid knowledge acquisition. I love creating innovative solutions and exploring new technologies. Follow me from the beginning of my journey till now. Read some stuff, say hi, check out my code! 🚀
 
 ---
 
@@ -9,8 +9,6 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
 
 ---
-
-## Latest blog posts
 
 <!-- blog start -->
 ## Latest blog posts
@@ -21,7 +19,7 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 - [Start Your Hacking Journey in 2025: A Comprehensive Guide for Beginners](https://medium.com/@j0hnc0nn0r/start-your-hacking-journey-in-2025-a-comprehensive-guide-for-beginners-48dab19186b7?source=rss-54fb251bbcc2------2)
 - [Streamline Your Command Line](https://medium.com/@j0hnc0nn0r/stream-line-your-command-line-236034cda8a3?source=rss-54fb251bbcc2------2)
 
-More on [medium](https://medium.com/feed/@j0hnc0nn0r)
+More on [Medium](https://medium.com/feed/@j0hnc0nn0r)
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-01-18<!-- last_updated end --></sub>
@@ -34,7 +32,6 @@ I work on exciting projects that range from web applications to open-source cont
 
 - **[Fabric's Web UI](https://github.com/johnconnor-sec/fabric/tree/main/web)** - Contribution to an open-source community. 
 - **[xpost](https://github.com/johnconnor-sec/xpost)** - A neat little cli tool to post to X.
-- **[Project 3](https://github.com/your-username/project3)** - 
 
 ---
 
@@ -55,7 +52,7 @@ I love connecting with new people and collaborating on projects. Feel free to re
 
 ---
 
-## 🎉 Thanks for stopping by!
+## Thanks for stopping by!
 
 Feel free to explore my repositories, star your favorites, and get in touch! Happy coding! ✨
 
