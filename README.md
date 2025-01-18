@@ -4,9 +4,9 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 
 ---
 
-## 🔧 Technologies & Tools
+## ⭐ GitHub Stats
 
-Here's a collection of the technologies and tools I frequently use:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
 
 ---
 
@@ -20,9 +20,10 @@ I work on exciting projects that range from web applications to open-source cont
 
 ---
 
-## ⭐ GitHub Stats
+## 🙇 Shoutouts
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
+A big shoutout to all my mentors, peers, and the open-source community that inspires me every day! 🙌
+A special thanks to the [xssdoctor](https://github.com/xssdoctor) and Gregory Hatcher of White Knight Labs.  
 
 ---
 
@@ -33,13 +34,6 @@ I love connecting with new people and collaborating on projects. Feel free to re
 - [LinkedIn](https://www.linkedin.com/in/petersec)
 - [Twitter](https://x.com/Noob73286788366)
 - [Medium](https://medium.com/@j0hnc0nn0r)
-
----
-
-## 🙇 Shoutouts
-
-A big shoutout to all my mentors, peers, and the open-source community that inspires me every day! 🙌
-A special thanks to the [xssdoctor](https://github.com/xssdoctor) and Gregory Hatcher of White Knight Labs.  
 
 ---
 
