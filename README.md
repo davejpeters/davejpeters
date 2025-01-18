@@ -10,6 +10,15 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 
 ---
 
+## Latest blog posts
+
+<!-- blog start -->
+<!-- blog end -->
+
+<sub>Last updated on <!-- last_updated start --><!-- last_updated end --></sub>
+
+---
+
 ## 🚀 Projects
 
 I work on exciting projects that range from web applications to open-source contributions. Here are a few highlights:
