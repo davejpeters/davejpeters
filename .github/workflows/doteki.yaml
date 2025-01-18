@@ -1,4 +1,4 @@
-name: Update README with dōteki
+name: Update README with doteki
 
 on:
   push:
@@ -16,11 +16,3 @@ jobs:
         uses: welpo/doteki-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-[sections.blog]
-plugin = "feed"
-url = "https://medium.com/feed/@j0hnc0nn0r"  # Replace with your feed.
-
-[sections.last_updated]
-plugin = "current_date"
-inline = true
