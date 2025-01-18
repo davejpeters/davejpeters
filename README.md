@@ -22,7 +22,7 @@ I work on exciting projects that range from web applications to open-source cont
 
 ## ⭐ GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=r
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
 
 ---
 
