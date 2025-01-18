@@ -1,0 +1,11 @@
+[sections.blog]
+plugin = "feed"
+url = "https://medium.com/feed/@j0hnc0nn0r"
+n = 5
+show_date = false
+prepend_text = "## Latest blog posts\n\n"
+append_text = "\n\nMore on [medium](https://medium.com/feed/@j0hnc0nn0r)"
+
+[sections.last_updated]
+plugin = "current_date"
+inline = true
