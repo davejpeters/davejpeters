@@ -8,21 +8,6 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 
 Here's a collection of the technologies and tools I frequently use:
 
-
-const technologies: string[] = [
-"TypeScript",
-"Svelte",
-"CSS",
-"Golang",
-"Git",
-"Python"
-];
-
-technologies.forEach(technology => {
-console.log(`💻 ${technology}`);
-});
-
-
 ---
 
 ## 🚀 Projects
