@@ -13,16 +13,16 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 <!-- blog start -->
 ## 📖 Latest blog posts
 
+- [Keep a Weekly Review](https://medium.com/@j0hnc0nn0r/keep-a-weekly-review-b15514a922fa?source=rss-54fb251bbcc2------2)
 - [Some Uncommon and Common Tricks to Change Your Life](https://medium.com/@j0hnc0nn0r/uncommon-tricks-to-change-your-life-338f5f0ddbc8?source=rss-54fb251bbcc2------2)
 - [Software Development in 2025](https://medium.com/@j0hnc0nn0r/software-development-in-2025-f23c62d5bd93?source=rss-54fb251bbcc2------2)
 - [The Philosophy of Linux: A Design That Changed Computing](https://medium.com/@j0hnc0nn0r/the-philosophy-of-linux-a-design-that-changed-computing-fb61a08cd22a?source=rss-54fb251bbcc2------2)
 - [Secure and Harden SSH Setup Before You Start Hacking](https://medium.com/@j0hnc0nn0r/secure-ssh-setup-and-harden-it-before-you-start-hacking-fc08321cab2d?source=rss-54fb251bbcc2------2)
-- [Start Your Hacking Journey in 2025: A Comprehensive Guide for Beginners](https://medium.com/@j0hnc0nn0r/start-your-hacking-journey-in-2025-a-comprehensive-guide-for-beginners-48dab19186b7?source=rss-54fb251bbcc2------2)
 
 More on [medium](https://medium.com/feed/@j0hnc0nn0r)
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-02-16<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-02-17<!-- last_updated end --></sub>
 
 ---
 
