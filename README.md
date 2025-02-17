@@ -4,9 +4,12 @@ Hey there! I'm John, a passionate developer specializing in rapid knowledge acqu
 
 ---
 
-## ⭐ GitHub Stats
+## 🚀 Projects
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
+I work on exciting projects that range from web applications to open-source contributions. Here are a few highlights:
+
+- **[Fabric's Web UI](https://github.com/johnconnor-sec/fabric/tree/main/web)** - Contribution to an open-source community. 
+- **[xpost](https://github.com/johnconnor-sec/xpost)** - A neat little cli tool to post to X.
 
 ---
 
@@ -26,18 +29,15 @@ More on [medium](https://medium.com/feed/@j0hnc0nn0r)
 
 ---
 
-## 🚀 Projects
+## ⭐ GitHub Stats
 
-I work on exciting projects that range from web applications to open-source contributions. Here are a few highlights:
-
-- **[Fabric's Web UI](https://github.com/johnconnor-sec/fabric/tree/main/web)** - Contribution to an open-source community. 
-- **[xpost](https://github.com/johnconnor-sec/xpost)** - A neat little cli tool to post to X.
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
 
 ---
 
 ## 🙌 Let's Connect!
 
-I love meeting new people and collaborating on projects. Feel free to reach out via:
+I like meeting new people and collaborating on projects. Feel free to reach out via:
 
 - [HackTheBox](https://app.hackthebox.com/profile/1763167) 
 - [Twitter](https://x.com/Noob73286788366)
