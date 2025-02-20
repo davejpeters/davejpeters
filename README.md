@@ -22,7 +22,7 @@ I work on exciting projects that range from web applications to open-source cont
 - [Software Development in 2025](https://medium.com/@j0hnc0nn0r/software-development-in-2025-f23c62d5bd93?source=rss-54fb251bbcc2------2)
 - [The Philosophy of Linux: A Design That Changed Computing](https://medium.com/@j0hnc0nn0r/the-philosophy-of-linux-a-design-that-changed-computing-fb61a08cd22a?source=rss-54fb251bbcc2------2)
 
-More on [medium](https://medium.com/feed/@j0hnc0nn0r)
+More on [medium](https://medium.com/@j0hnc0nn0r)
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-02-20<!-- last_updated end --></sub>
