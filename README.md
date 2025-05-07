@@ -18,7 +18,7 @@ More on [medium](https://medium.com/feed/@j0hnc0nn0r)
 
 ## ⭐ GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=dracula)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=nord)
 
 ---
 
