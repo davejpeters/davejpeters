@@ -12,7 +12,7 @@
 More on [medium](https://medium.com/feed/@j0hnc0nn0r)
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-12-30<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-12-31<!-- last_updated end --></sub>
 
 ---
 
