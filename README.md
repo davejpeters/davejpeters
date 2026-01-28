@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Hi
 
 <!-- blog start -->
 ## 📖 Latest blog posts
@@ -13,12 +13,6 @@ More on [medium](https://medium.com/feed/@j0hnc0nn0r)
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2026-01-28<!-- last_updated end --></sub>
-
----
-
-## ⭐ GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnconnor-sec&show_icons=true&count_private=true&theme=nord)
 
 ---
 
