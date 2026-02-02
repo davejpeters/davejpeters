@@ -1,4 +1,23 @@
-# Hi
+# Dave Peters
+
+I _try_ to build durable, practical systems and ship boring software that works.
+Currently preparing for the Certified Web Exploitation Specialist (CWES) offered by [HackTheBox](https://www.hackthebox.com).
+
+## Focus
+- Web security and exploitation practice
+- Building small, professional tools that solve real problems
+- Turning practical skill into stable, repeatable outcomes
+
+## What I Work With
+[![My Skills](https://skillicons.dev/icons?i=python,go,ts,html,css)](https://skillicons.dev)
+
+## What I Value
+- Discipline beats mood
+- Finishable scope is strength
+- Learning only counts when it ships
+
+## Education 
+Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
 
 <!-- blog start -->
 ## 📖 Latest blog posts
@@ -9,7 +28,7 @@
 - [Requirements Needed for Coding New Projects with LLM’s](https://medium.com/@j0hnc0nn0r/requirements-needed-for-coding-new-projects-with-llms-3cab172054de?source=rss-54fb251bbcc2------2)
 - [Keep a Weekly Review](https://medium.com/@j0hnc0nn0r/keep-a-weekly-review-b15514a922fa?source=rss-54fb251bbcc2------2)
 
-More on [medium](https://medium.com/feed/@j0hnc0nn0r)
+More on [medium](https://medium.com/feed/@davejpeters)
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2026-02-02<!-- last_updated end --></sub>
