@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '51 * * * *'  # Every hour at XX:51.
+    - cron: * 23 * * *'  # Every day at 11pm
 
 jobs:
   update-readme:
