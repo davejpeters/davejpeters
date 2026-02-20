@@ -3,6 +3,10 @@
 I _try_ to build durable, practical systems and ship boring software that works.
 Currently preparing for the Certified Web Exploitation Specialist (CWES) offered by [HackTheBox](https://www.hackthebox.com).
 
+I don't post my code to Github often. I prefer to use a private Gitea instance which I backup periodically. I also sincerly dislike social media and what it's done to people/society so I don't post to _those_ sites often (even though people say 'you have to have a presence', to which I say 'to hell with it'), mostly just to post HTB machines I've completed and occasionaly to shout into the void (even though I don't and will never pay to have my 'voice' be 'heard' by strangers (who are often mid-level 'elites' who have no time for plebs like me + I don't want to be apart of a "world stage" or "global townsquare" where the voices that are heard are the loudest and most obnoxious) so the shouting void thing is useless, I know).  
+
+Sorry, I got carried away. Anyway... 
+
 ## Focus
 - Web security and exploitation practice
 - Building small, professional tools that solve real problems
