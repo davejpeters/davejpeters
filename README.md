@@ -33,7 +33,7 @@ Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
 More on [medium](https://medium.com/feed/@davejpeters)
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2026-03-16<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2026-03-17<!-- last_updated end --></sub>
 
 ---
 
