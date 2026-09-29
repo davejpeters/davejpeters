@@ -6,7 +6,7 @@
 ## Education 
 Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
 
-<sub>Last updated on <!-- last_updated start -->2026-09-28<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2026-09-29<!-- last_updated end --></sub>
 
 ---
 
