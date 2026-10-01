@@ -1,7 +1,11 @@
 # Dave Peters
 
 ## What I Work With
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,docker,git,go,html,htmx,markdown,neovim,obsidian,python,sqlite,tailwind)](https://skillicons.dev)
+### Preferred Stack
+[![](https://skillicons.dev/icons?i=arch,bash,docker,git,go,html,htmx,markdown,neovim,obsidian,python,sqlite,tailwind)](https://skillicons.dev)
+
+### Others' stack
+[![](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 
 ## Education 
 Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
