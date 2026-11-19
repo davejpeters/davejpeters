@@ -15,7 +15,7 @@ Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
 ---
 
 <!-- blog start -->
-## 📖 Latest blog posts
+## Latest blog posts
 
 - [Opencode Mentor](https://davejpeters.net/work/opencode-mentor/)
 - [](https://davejpeters.net/blog/debt/)
