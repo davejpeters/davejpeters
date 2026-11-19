@@ -2,7 +2,7 @@ marker_format = "<!-- {name} {position} -->"
 
 [sections.blog]
 plugin = "feed"
-url = "https://davejpeters.net/index.xml"
+url = "https://davejpeters.net"
 n = 5
 show_date = false
 prepend_text = "## 📖 Latest blog posts\n\n"
