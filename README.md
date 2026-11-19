@@ -7,10 +7,15 @@
 ### Other stacks I work with
 [![](https://skillicons.dev/icons?i=wordpress,php,jquery,react)](https://skillicons.dev)
 
+---
+
 ## Education 
 Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
 
-<sub>Last updated on <!-- last_updated start -->2026-11-19<!-- last_updated end --></sub>
+---
+
+<!-- blog start -->
+<!-- blog end -->
 
 ---
 
