@@ -2,7 +2,7 @@
 
 ## What I Work With
 ### Preferred Stack
-[![](https://skillicons.dev/icons?i=arch,bash,docker,git,go,html,htmx,markdown,neovim,obsidian,python,sqlite,tailwind)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=arch,bash,docker,git,go,html,htmx,kali,markdown,neovim,obsidian,python,sqlite,tailwind)](https://skillicons.dev)
 
 ### Other stacks I work with
 [![](https://skillicons.dev/icons?i=wordpress,php,jquery,react)](https://skillicons.dev)
