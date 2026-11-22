@@ -26,6 +26,6 @@ Bachelors in Fine Arts, focus in Drawing and Painting (don't go to art school)
 
 ---
 
-<sub>Last updated on <!-- last_updated start -->2026-11-21<!-- last_updated end -->.</sub>
+<sub>Last updated on <!-- last_updated start -->2026-11-22<!-- last_updated end -->.</sub>
 
 <!-- <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a> -->
